@@ -12,6 +12,7 @@ The data is retrieved using the KEGG REST API and saved as text files for each E
 
 ## Flow Diagram
 
+```
 START
   │
   │
@@ -63,6 +64,7 @@ START
               │
               ▼
        --- KEGG Fetching Task Complete ---
+```
 
 
        
